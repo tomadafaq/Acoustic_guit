@@ -1,0 +1,627 @@
+1
+ BG poet
+ index.htm
+2
+ Любовна лирика
+ lyubovna_lirika.htm
+3
+ Неспоменато
+ nespomenato.htm
+4
+ Сън било...
+ sn_bilo___.htm
+5
+ Рикошет
+ rikoshet.htm
+6
+ Рефлексия
+ refleksiya.htm
+7
+ вяра надежда любов
+ vyara_nadezhda_lyubov.htm
+8
+ Гоненица по лентата на Мьобиус
+ gonenitsa_po_lentata_na_mobius.htm
+9
+ Безпрогнозово
+ bezprognozovo.htm
+10
+ Изповед
+ izpoved.htm
+11
+ Двуполюсен модел
+ dvupolyusen_model.htm
+12
+ Капан за сънища
+ kapan_za_sanishta.htm
+13
+ Рутина
+ rutina.htm
+14
+ Асцедент Стрелец
+ ascedent_strelets.htm
+15
+ Параdogs II
+ paradogs_ii.htm
+16
+ Параdogs
+ paradogs.htm
+17
+ Безизходица
+ bezizhoditsa.htm
+18
+ Обичам те (Post mortem)
+ obicham_te_post_mortem_.htm
+19
+ Ад
+ ad.htm
+20
+ Кръговрат
+ krgovrat.htm
+21
+ Предпролетно
+ predproletno.htm
+22
+ Андрогенно
+ androgenno.htm
+23
+ Хороскоп за сбогом
+ horoskop_za_sbogom.htm
+24
+ Минало свършено
+ minalo_svrsheno.htm
+25
+ Взаимоугодни 
+ vzaimougodni.htm
+26
+ Духовна среща
+ duhovna_sreshcha.htm
+27
+ Окончателно
+ okonchatelno.htm
+28
+ С мен ли си? 
+ s_men_li_si__.htm
+29
+ По неделнишки
+ po_nedelnishki.htm
+30
+ Клише
+ klishe.htm
+31
+ ТипаЖ 
+ tipazh_.htm
+32
+ Предопределеност
+ predopredelenost.htm
+33
+ Пъзлест възел
+ puzzlest_vuzel.htm
+34
+ Кръст
+ krast.htm
+35
+ Не ми отива (Не си отивай)
+ ne_mi_otiva_ne_si_otivaj.htm
+36
+ Силният 
+ silniyat_.htm
+37
+ Стандарти 
+ standarti_.htm
+38
+ Порастване 
+ porastvane_.htm
+39
+ Между редовете 
+ mezhdu_redovete_.htm
+40
+ Кармично кардиотомично 
+ karmichno_kardiotomichno_.htm
+41
+ Напрегнато 
+ napregnato_.htm
+42
+ Специално 
+ spetsialno_.htm
+43
+ Страничен изглед на празнене (в разрез) 
+ stranichen_izgled_na_praznene__v_razrez__.htm
+44
+ Още толкова... 
+ oshche_tolkova____.htm
+45
+ Присъда 
+ prisda_.htm
+46
+ Изстрели в тъмното 
+ izstreli_v_tmnoto_.htm
+47
+ Криогенезис 
+ kriogenezis_.htm
+48
+ Когато ме погледнеш... 
+ kogato_me_poglednesh____.htm
+49
+ Симфония (от нейно име) 
+ simfoniya__ot_nejno_ime__.htm
+50
+ На разлъка 
+ na_razlka_.htm
+51
+ По калъп 
+ po_kalp_.htm
+52
+ Нежелано 
+ nezhelano_.htm
+53
+ Сълза на цигуларка 
+ slza_na_tsigularka_.htm
+54
+ Реквием за един сълзлив дъжд 
+ rekviem_za_edin_slzliv_dzhd_.htm
+55
+ Вече...(те)...че...(не)...че...(те)... 
+ veche____te____che____ne____che____te_____.htm
+56
+ Безбройно 
+ bezbrojno_.htm
+57
+ 0.00 0бич 
+ 0_00_0bich_.htm
+58
+ Машините не ме...
+ mashinite_ne_me.htm
+59
+ Миниатюрни бисерченца 
+ miniatyurni_biserchentsa.htm
+60
+ Розова серия II
+ rozova_seriya_ii.htm
+61
+ Розова серия
+ rozova_seriya.htm
+62
+ Cry-но безсилие
+ cry_no_bezsilie.htm
+63
+ Една мечта за теб
+ edna_mechta_za_teb.htm
+64
+ С обич (без да не боли) 
+ s_obich__bez_da_ne_boli__.htm
+65
+ Изповед на (не)един (не)поет 
+ izpoved_na__ne_edin__ne_poet_.htm
+66
+ Дъгови палитри
+ dgovi_palitri.htm
+67
+ Любов! Без консерванти! 
+ lyubov__bez_konservanti__.htm
+68
+ Ретроспекция на дисекция  
+ retrospektsiya_na_disektsiya__.htm
+69
+ Любов на буци
+ lyubov_na_butsi.htm
+70
+ Приказка без cry
+ prikazka__bez_crъ.htm
+71
+ АМУРатизатор
+ amuratizator.htm
+72
+ Иззад затъмненото стъкло
+ izzad_zatmnenoto_stklo.htm
+73
+ Границата
+ granitsata.htm
+74
+ Рецитал с часовников механизъм
+ retsital_s_chasovnikov_mekhanizm.htm
+75
+ Стихопат 
+ stikhopat_.htm
+76
+ Русалка 
+ rusalka_.htm
+77
+ Понеделнишки откос
+ ponedelnishki_otkos.htm
+78
+ Любовните писма
+ lyubovnite_pisma.htm
+79
+ Малка нощна пластика
+ malka_noshchna_plastika.htm
+80
+ Ретроспекула 
+ retrospekula_.htm
+81
+ Съшита със скръб
+ sshita_ss_skrb.htm
+82
+ На цвете
+ na_tsvete.htm
+83
+ Шизо-Нарцис
+ shizo_nartsis.htm
+84
+ На Орфей
+ na_orfej.htm
+85
+ Есенна соната
+ esenna_sonata.htm
+86
+ Каризмено и лично
+ karizmeno_i_lichno.htm
+87
+ ...на шизотворни
+ нa_shizotvorni.htm
+88
+ Равносметка
+ ravnosmetka.htm
+89
+ Хапче за сън
+ khapche_za_sn.htm
+90
+ Откровение
+ otkrovenie.htm
+91
+ Не си отивай
+ ne_si_otivaj.htm
+92
+ Стаята
+ stayata.htm
+93
+ Прогноза за дъжд
+ prognoza_za_dzhd.htm
+94
+ Солница
+ solnitsa.htm
+95
+ Кокиченце
+ kokichentse.htm
+96
+ Къде съм аз
+ kde_sm_az.htm
+97
+ Гражданска поезия
+ grazhdanska_poeziya.htm
+98
+ Из "Хрониките на една майка" 
+ iz__khronikite_na_edna_majka__.htm
+99
+ На един Той 
+ na_edin_toj_.htm
+100
+ Монолог с Вапцаров 
+ monolog_s_vaptsarov_.htm
+101
+ Житейска песен
+ zhitejska_pesen.htm
+102
+ Пролетно 
+ proletno_.htm
+103
+ Отлюспено от истини 
+ otlyuspeno_ot_istini_.htm
+104
+ Здравей, живот! 
+ zdravej__zhivot__.htm
+105
+ Вероизповедение 
+ veroizpovedenie_.htm
+106
+ Упадъкът 
+ upadkt_.htm
+107
+ Анти-исихазъм
+ anti_isikhazm.htm
+108
+ Фейсбоклук
+ fejsbokluk.htm
+109
+ ОтраZен Будизъм 
+ otrazen_budizm_.htm
+110
+ Колхозно 
+ kolkhozno_.htm
+111
+ Ежедневка 
+ ezhednevka_.htm
+112
+ Ренесеанс 
+ reneseans_.htm
+113
+ Мини Цикъл "Градски пейзаж"
+ mini_tsikl__gradski_pejzazh_.htm
+114
+ Пролетно пейзажна
+ proletno_pejzazhna.htm
+115
+ Зимно пейзажна
+ zimno_pejzazhna.htm
+116
+ Есенно-пейзажна 
+ esenno_pejzazhna_.htm
+117
+ Аборт. Unborn again (абориген). 
+ abort__unborn_again__aborigen___.htm
+118
+ Диагнозповед на онкоболен бог
+ diagnozpoved_na_onkobolen_bog.htm
+119
+ Оттатък
+ ottatk.htm
+120
+ Имагинерен магесник
+ imagineren_magesnik.htm
+121
+ Рекламна кауза
+ reklamna_kauza.htm
+122
+ Прим@виста
+ prim_vista.htm
+123
+ 21 век
+ 21_vek.htm
+124
+ Поетично реалистична
+ poetichno_realistichna.htm
+125
+ Дали?
+ dali.htm
+126
+ Укор от упор
+ ukor_ot_upor.htm
+127
+ Този град
+ tozi_grad.htm
+128
+ Предпочитано
+ predpochitano.htm
+129
+ Други (стихове)
+ drugi__stikhove_.htm
+130
+ Хобито на дядо Коледа
+ khobito_na_dyado_koleda.htm
+131
+ Ергенски хотдог
+ ergenski_khotdog.htm
+132
+ Житейска песен 2
+ zhitejska_pesen_2.htm
+133
+ Мой… а?
+ moj__a_.htm
+134
+ Ергенно модифициран 
+ ergenno_modifitsiran_.htm
+135
+ Бриз криза
+ briz_kriza.htm
+136
+ Отказаният Ной
+ otkazaniyat_noj.htm
+137
+ Неполучена пратка
+ nepoluchena_pratka.htm
+138
+ Кама-Сутрешна драма
+ kama_sutreshna_drama.htm
+139
+ Канцерогенитална 
+ kantserogenitalna_.htm
+140
+ Аман от разбирачи! 
+ aman_ot_razbirachi__.htm
+141
+ За някога 
+ za_nyakoga_.htm
+142
+ Антикварно 
+ antikvarno_.htm
+143
+ Сутрешна изповед 
+ sutreshna_izpoved_.htm
+144
+ Сбогуване 
+ sboguvane_.htm
+145
+ Отрезвително въпросително 
+ otrezvitelno_vprositelno_.htm
+146
+ Среда на една неправилна фигура 
+ sreda_na_edna_nepravilna_figura_.htm
+147
+ Подматрачна дрямка 
+ podmatrachna_dryamka_.htm
+148
+ Любов (отличително отегчително) 
+ lyubov__otlichitelno_otegchitelno__.htm
+149
+ Ексхибицинизъм
+ ekskhibitsinizm.htm
+150
+ Аз, хаосът и Alice  
+ az__khaost_i_alice__.htm
+151
+ Чифт японски миниатюри
+ chift_yaponski_miniatyuri.htm
+152
+ Стереотипен (Кръговратът на Живота) 
+ stereotipen__krgovratt_na_zhivota__.htm
+153
+ ФеноменАн(Т)омалия 
+ fenomenan_t_omaliya_.htm
+154
+ Празни 4-но 
+ prazni_4_no_.htm
+155
+ Акростихия 
+ akrostikhiya_.htm
+156
+ КардиоТОМия
+ kardiotomiya.htm
+157
+ Сама (в обвиняване) 
+ sama__v_obvinyavane__.htm
+158
+ Нова генерация (ин витро)
+ nova_generatsiya_in_vitro.htm
+159
+ Добро интро за “Добро утро” 
+ dobro_intro_za__dobro_utro__.htm
+160
+ АкроКлишета 
+ akroklisheta_.htm
+161
+ Само за миг 
+ samo_za_mig_.htm
+162
+ Безпощадно красива 
+ bezposhchadno_krasiva_.htm
+163
+ Кардиообиск 
+ kardioobisk_.htm
+164
+ || ||| || ||| || (Пиано) 
+ piano.htm
+165
+ Ще ме познаеш
+ shche_me_poznaesh.htm
+166
+ Приятелските "Искам"
+ priyatelskite_iskam.htm
+167
+ Пепа от рози
+ pepa_ot_rozi.htm
+168
+ Кутия
+ kutiya.htm
+169
+ Есенна песен
+ esenna_pesen.htm
+170
+ Кардинално кардиално
+ kardinalno_kardialno.htm
+171
+ Сънувахме
+ snuvakhme.htm
+172
+ Безнадеждно естетична
+ beznadezhdno_estetichna.htm
+173
+ Забранена любов
+ zabranena_lyubov.htm
+174
+ Дъх на Цвете
+ dkh_na_tsvete.htm
+175
+ Мини цикъл "Пясъчни"
+ mini_tsikl__pyaschni_.htm
+176
+ Пясъчен часовник 
+ pyaschen_chasovnik_.htm
+177
+ Часовник на Колумбаго
+ chasovnik_na_kolumbago.htm
+178
+ 2000-2006
+ 2000_2006.htm
+179
+ Лъхтиш на хлад
+ lkhtish_na_khlad.htm
+180
+ По-моноложно
+ po_monolozhno.htm
+181
+ Хот дог
+ khot_dog.htm
+182
+ Непубликувани 2009- 2016
+ nepublikuvani_2009__2016.htm
+183
+ Непубликувани 2008
+ nepublikuvani_2008.htm
+184
+ Непубликувани 2007
+ nepublikuvani_2007.htm
+185
+ Непубликувани преди 2007
+ nepublikuvani_predi_2007.htm
+186
+ Есета
+ eseta.htm
+187
+ Баничка със сирене
+ banichka_ss_sirene.htm
+188
+ Защо е безочливо да има паметник на "Незнайния турски воин"? 
+ zashcho_e_bezochlivo_da_ima_pametnik_na__neznajniya_turski_voin___.htm
+189
+ Да бъдеш жертва под крилото на закона
+ da_bdesh_zhertva_pod_kriloto_na_zakona.htm
+190
+ Точка на гледане 
+ tochka_na_gledane_.htm
+191
+ За Фирата в изкуството 
+ za_firata_v_izkustvoto_.htm
+192
+ За п...оетите и хората 
+ za_p___oetite_i_khorata_.htm
+193
+ Един ден в една България  
+ edin_den_v_edna_blgariya__.htm
+194
+ Поддържам тезата 
+ poddrzham_tezata_.htm
+195
+ Разкази
+ razkazi.htm
+196
+ Хирургът
+ hirurgа.htm
+197
+ Добросъsexки взаимосношения
+ dobrossexki_vzaimosnosheniya.htm
+198
+ Фейсбук драма
+ fejsbuk_drama.htm
+199
+ Случайни потайности
+ sluchajni_potajnosti.htm
+200
+ Любовни Полигони
+ lyubovni_poligoni.htm
+201
+ Сексът и Селото
+ sekst_i_seloto.htm
+202
+ Преводи
+ prevodi.htm
+203
+ Рей Чарлз - If you go away / Ако си отидеш
+ rej_charlz___if_you_go_away___ako_si_otidesh.htm
+204
+ Пинк Флойд - Echoes / Екоти
+ pink_flojd___echoes___ekoti.htm
+205
+ Морфин - Empty Box
+ morfin___empty_box.htm
+206
+ Канзас - Dust in the Wind
+ kanzas___dust_in_the_wind.htm
+207
+ Мерилин Менсън - Man that you fear
+ merilin_mensn___man_that_you_fear.htm
+208
+ English poetry
+ english_poetry.htm
+209
+ Контакти
+ kontakti.htm
